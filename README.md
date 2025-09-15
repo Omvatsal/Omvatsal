@@ -1,16 +1,39 @@
-## Hi there 👋
+#### Bonjour👋
+# I am Om Jha💻
 
-<!--
-**Omvatsal/Omvatsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##Know me😎:  
+I am a student at Indian Institute at Information Technology, Nagpur(IIITN) specializing in data science and analytics.A full-stack storyteller who brings ideas to life on the web. I'm a versatile developer, constantly exploring new technologies to build intuitive and elegant solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##Tech stack🚀:  
+Languages:
+- C,C++
+- Python(basic)
+- HTML,CSS
+- Javascript
+
+Libraries & Frameworks:
+- React
+- Tailwind CSS
+- Node.js libraries,Express
+- Numpy,Pandas
+- Matplotlib,Seaborn
+- Scipy
+
+Databases:
+- MongoDB
+- MySQL
+
+---
+
+Connect with me🤝:
+<a href='https://www.linkedin.com/in/omvatsal'><img src='/assets/linkedin.jpg' alt="linkedin"/></a>
+
+
+
+
+
+
