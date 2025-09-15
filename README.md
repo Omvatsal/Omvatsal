@@ -1,12 +1,12 @@
 #### Bonjour👋
 # I am Om Jha💻
 
----
+
 
 ## Know me😎:  
 A full-stack storyteller who brings ideas to life on the web. I'm a versatile developer, constantly exploring new technologies to build intuitive and elegant solutions.
 
----
+
 
 ## Tech stack🚀:  
 Languages:
@@ -27,7 +27,7 @@ Databases:
 - MongoDB
 - MySQL
 
----
+
 
 ## Reach Out🤝: 
 
