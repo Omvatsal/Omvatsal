@@ -26,7 +26,7 @@
 
 ---
 
-## About
+### About
 
 I'm a third-year Computer Science Engineering student specializing in
 Data Science.
@@ -35,14 +35,14 @@ I like working across the boundary between **software engineering and
 machine learning** — building applications, experimenting with models,
 and understanding what happens underneath the abstractions.
 
-### Interests
+#### Interests
 
 `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision`  
 `Backend Engineering` · `Data Systems` · `Algorithms`
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="./assets/tech-stack.png" width="850" />
@@ -50,7 +50,7 @@ and understanding what happens underneath the abstractions.
 
 ---
 
-## Interesting Repositories
+### Interesting Repositories
 
 A few things I've been building, experimenting with, or learning from.
 
