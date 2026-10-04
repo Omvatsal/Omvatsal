@@ -8,8 +8,6 @@
   <small>
     I thought I reached the bottom of the tech rabbit hole. Turns out it has a basement.
   </small>
-  <br>
-  <sub><i>(Impostor syndrome included.)</i></sub>
 </blockquote>
 
 <p>
